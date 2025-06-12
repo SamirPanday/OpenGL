@@ -89,7 +89,7 @@ int main() {
 
 
 	float vertices[] = {
-		// ---- S ----
+		//S
 
 		// Top bar of S
 		-0.9f,  0.5f, 0.0f,
@@ -131,7 +131,7 @@ int main() {
 		-0.4f, -0.4f, 0.0f,
 		-0.5f, -0.4f, 0.0f,
 
-		// ---- P ----
+		//P 
 
 		// Vertical bar of P
 		0.1f,  0.5f, 0.0f,
