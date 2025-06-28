@@ -1,1 +1,5 @@
-﻿  2D Transformation.vcxproj -> D:\OPEN GL\2D Transformation\x64\Debug\2D Transformation.exe
+﻿  main.cpp
+D:\OPEN GL\2D Transformation\main.cpp(127,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\OPEN GL\2D Transformation\main.cpp(269,46): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\OPEN GL\2D Transformation\main.cpp(281,46): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  2D Transformation.vcxproj -> D:\OPEN GL\2D Transformation\x64\Debug\2D Transformation.exe
